@@ -37,7 +37,7 @@ A clean and responsive frontend-only implementation of a user **Registration** a
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/login-register-html-css.git
+git clone [https://github.com/your-username/login-register-html-css](https://github.com/Canol001/Registration-and-login-forms-in-html).git
 
 # Navigate into the folder
 cd login-register-html-css
